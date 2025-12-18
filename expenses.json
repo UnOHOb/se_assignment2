@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2025-12-18",
+        "amount": 377.0,
+        "category": "Food"
+    },
+    {
+        "date": "2025-12-18",
+        "amount": 15.0,
+        "category": "Transport"
+    },
+    {
+        "date": "2025-09-05",
+        "amount": 24000.0,
+        "category": "Rent"
+    }
+]
